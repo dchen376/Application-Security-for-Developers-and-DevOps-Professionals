@@ -43,7 +43,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/3cc2315e-7209-4ad4-9c85-0419be800373)
 ![image](https://github.com/user-attachments/assets/1839c18f-021a-419d-93fc-d603ccad8394)
 
-
+## 2. Security Testing and Mitigation Strategies
 
 
   
