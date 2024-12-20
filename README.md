@@ -18,3 +18,4 @@ I. Introduction to Security for Application Development
 - security patterns
   ![image](https://github.com/user-attachments/assets/9006d5f0-089e-4b4e-a01e-ebb54b7220a5)
 ![image](https://github.com/user-attachments/assets/075d86bb-c100-4ade-b8eb-3224f7348380)
+![image](https://github.com/user-attachments/assets/a8850394-bca5-4bae-a9b7-97282bb25cd4)
