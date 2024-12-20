@@ -85,3 +85,10 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/4487ead0-a4ec-4048-9490-a1038afbfb20)
 ![image](https://github.com/user-attachments/assets/eb2044d2-4999-4945-a098-1192c7b4678b)
 
+- runtime protection: a security mechanism that shields running applications against threats
+  - **IAST**
+  - **RASP**
+  ![image](https://github.com/user-attachments/assets/f33d2ee7-d875-487b-b457-351ff61f2298)
+
+- software component analysis
+
