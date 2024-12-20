@@ -27,6 +27,7 @@ I. Introduction to Security for Application Development
 ![image](https://github.com/user-attachments/assets/a7a8139a-92b8-4fc6-b939-5c7d4007d1d2)
 
 - threat modeling
+  - STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privileges)
 - threat monitoring: scanning code repositories and containers to find security issues.
 - code checker: scans source code for security issues.
 
