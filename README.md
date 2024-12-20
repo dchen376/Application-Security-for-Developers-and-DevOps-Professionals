@@ -83,4 +83,5 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 
 - vulnerability scanner -> Jake (by SonaType Nexus Community):  to check Python environments for vulnerabilities. While Jake is not created by or supported by Sonatype, it uses the Sonatype OSS Index.
 ![image](https://github.com/user-attachments/assets/4487ead0-a4ec-4048-9490-a1038afbfb20)
+![image](https://github.com/user-attachments/assets/eb2044d2-4999-4945-a098-1192c7b4678b)
 
