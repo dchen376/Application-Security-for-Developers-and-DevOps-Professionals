@@ -15,3 +15,5 @@ I. Introduction to Security for Application Development
 - layers of security
   ![image](https://github.com/user-attachments/assets/422b0c6b-8644-4af0-9813-50b8ec285b14)
 
+- security patterns
+  ![image](https://github.com/user-attachments/assets/9006d5f0-089e-4b4e-a01e-ebb54b7220a5)
