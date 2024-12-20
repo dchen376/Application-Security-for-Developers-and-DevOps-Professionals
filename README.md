@@ -32,6 +32,6 @@ I. Introduction to Security for Application Development
 
 - security terminology
   ![image](https://github.com/user-attachments/assets/29a6fae9-4c38-4c34-83f4-7420ad5d0664)
-
+  - Nmap (network Mapper): open-source network scanning and security auditing tool.
   
 
