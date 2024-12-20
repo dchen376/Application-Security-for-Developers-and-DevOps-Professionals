@@ -46,8 +46,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ## 2. Security Testing and Mitigation Strategies
 
 - functional **security testing**
-  - Ad hoc testing
-  - exploratory testing
+  - Ad hoc testing: completely unstructured; involves improvised, unplanned testing without any formal test cases or documentation
+  - exploratory testing: loosely structured; an unscripted, experience-based testing approach where testers actively explore the application to discover issues. 
 - automated security testing types
   - unit testing
   - integration testing
