@@ -54,6 +54,10 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   
 - **static analysis**: examing all code or runtime binaries to help detect common vulnerabilities.
   - SAST (static application security testing)
+  - SonarQube: for continuous code quality inspection
+    ![image](https://github.com/user-attachments/assets/99b560fc-2234-4dfd-8866-17fb73af5333)
+
+  - SonarScanner
 
 - **dynamic analysis**
   - DAST
