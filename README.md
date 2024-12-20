@@ -52,7 +52,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - unit testing
   - integration testing
   
--** static analysis**: examing all code or runtime binaries to help detect common vulnerabilities.
+- **static analysis**: examing all code or runtime binaries to help detect common vulnerabilities.
   - SAST (static application security testing)
 
 - **dynamic analysis**
