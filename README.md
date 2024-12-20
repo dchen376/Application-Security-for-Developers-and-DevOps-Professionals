@@ -21,4 +21,9 @@ I. Introduction to Security for Application Development
 ![image](https://github.com/user-attachments/assets/a8850394-bca5-4bae-a9b7-97282bb25cd4)
 
 - **TLS** (Transport Layer Security)  / **SSL** (Secure Sockets Layer) -> **Modern TLS**
-  
+
+- vulnerability scanning
+  ![image](https://github.com/user-attachments/assets/94fdd58d-f5f9-48b8-a6d4-bf358a4d0e11)
+![image](https://github.com/user-attachments/assets/a7a8139a-92b8-4fc6-b939-5c7d4007d1d2)
+
+
