@@ -67,5 +67,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 - **code review**
   ![image](https://github.com/user-attachments/assets/1ea65051-cd0a-46a6-8d20-b79a2e97b3db)
 
+  *review codes at** Every Pull Request!**
+
+
   
 
