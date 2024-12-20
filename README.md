@@ -56,5 +56,5 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - SAST (static application security testing)
 
 - **dynamic analysis**
-  - DAST 
+  - DAST
 
