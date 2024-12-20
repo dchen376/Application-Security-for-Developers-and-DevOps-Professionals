@@ -45,6 +45,16 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 
 ## 2. Security Testing and Mitigation Strategies
 
-
+- functional **security testing**
+  - Ad hoc testing
+  - exploratory testing
+- automated security testing types
+  - unit testing
+  - integration testing
   
+-** static analysis**: examing all code or runtime binaries to help detect common vulnerabilities.
+  - SAST (static application security testing)
+
+- **dynamic analysis**
+  - DAST 
 
