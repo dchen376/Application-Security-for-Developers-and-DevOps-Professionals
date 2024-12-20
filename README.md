@@ -90,5 +90,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - **RASP**
   ![image](https://github.com/user-attachments/assets/f33d2ee7-d875-487b-b457-351ff61f2298)
 
-- software component analysis
+- software component analysis (**SCA**): to better manage security and license compliance risks.
+  ![image](https://github.com/user-attachments/assets/200ff7c9-8d75-4a17-a8fe-1862dafc050d)
+
+  
 
