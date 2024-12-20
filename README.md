@@ -64,3 +64,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - ZAP (Zed Attack Proxy): a tool wielded to uncover and guard against vulnerabilities in web applications. 
 ![image](https://github.com/user-attachments/assets/4f03b3b3-801f-4372-aba6-1c86f1b4ad1a)
 
+- **code review**
+  ![image](https://github.com/user-attachments/assets/1ea65051-cd0a-46a6-8d20-b79a2e97b3db)
+
+  
+
