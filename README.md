@@ -12,4 +12,6 @@ I. Introduction to Security for Application Development
 - seven layers of OSI
   ![image](https://github.com/user-attachments/assets/4bf6f998-19f1-40bf-a157-8b0e7c957cae)
 
-  
+- layers of security
+  ![image](https://github.com/user-attachments/assets/422b0c6b-8644-4af0-9813-50b8ec285b14)
+
