@@ -68,7 +68,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   ![image](https://github.com/user-attachments/assets/1ea65051-cd0a-46a6-8d20-b79a2e97b3db)
   *review codes at **Every Pull Request!**
 
-- vulnerability analysis
+- **vulnerability analysis**
   - tools: SaaS platforms like **Snyk**
     ![image](https://github.com/user-attachments/assets/89fafb5f-e6dd-4acc-a1be-b1929b9adbb8)
 
