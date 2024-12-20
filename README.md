@@ -61,4 +61,6 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 
 - **dynamic analysis**
   - DAST
+  - ZAP (Zed Attack Proxy): a tool wielded to uncover and guard against vulnerabilities in web applications. 
+![image](https://github.com/user-attachments/assets/4f03b3b3-801f-4372-aba6-1c86f1b4ad1a)
 
