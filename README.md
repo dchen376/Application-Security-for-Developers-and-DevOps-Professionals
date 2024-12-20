@@ -8,5 +8,8 @@ I. Introduction to Security for Application Development
 - secure SDLC
   ![image](https://github.com/user-attachments/assets/3036dece-7c38-44ef-a44f-fbb1745f5c39)
 
+- OSI model (Open Systems Interconnection Model): a conceptual framework that standardizes how network communication occurs between devices.
+- seven layers of OSI
+  ![image](https://github.com/user-attachments/assets/4bf6f998-19f1-40bf-a157-8b0e7c957cae)
 
   
