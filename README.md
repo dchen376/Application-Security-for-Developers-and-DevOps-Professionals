@@ -94,5 +94,5 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   ![image](https://github.com/user-attachments/assets/7586e3b5-ae43-489d-b37c-98dc6b5c41e3)
   ![image](https://github.com/user-attachments/assets/200ff7c9-8d75-4a17-a8fe-1862dafc050d)
 
-  
-
+-  OWASP SCA Dependency-checker
+- 
