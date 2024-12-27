@@ -26,7 +26,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   ![image](https://github.com/user-attachments/assets/94fdd58d-f5f9-48b8-a6d4-bf358a4d0e11)
 ![image](https://github.com/user-attachments/assets/a7a8139a-92b8-4fc6-b939-5c7d4007d1d2)
 
-- threat modeling
+- **threat modeling**
   - STRIDE (Spoofing, Tampering, Repudiation, Information Disclosure, Denial of Service, and Elevation of Privileges)
 - threat monitoring: scanning code repositories and containers to find security issues.
 - code checker: scans source code for security issues.
