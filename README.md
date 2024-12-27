@@ -86,6 +86,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/eb2044d2-4999-4945-a098-1192c7b4678b)
 
 - runtime protection: a security mechanism that shields running applications against threats
+  - Runtime Application Self-Protection **(RASP)**
   - **IAST**
   - **RASP**
   ![image](https://github.com/user-attachments/assets/f33d2ee7-d875-487b-b457-351ff61f2298)
@@ -94,19 +95,14 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   ![image](https://github.com/user-attachments/assets/7586e3b5-ae43-489d-b37c-98dc6b5c41e3)
   ![image](https://github.com/user-attachments/assets/200ff7c9-8d75-4a17-a8fe-1862dafc050d)
 
--  OWASP SCA Dependency-checker
+
 - Lab: Evaluating vulnerability analysis
   - **Jake** - to check Python environments for vulnerabilities
     ![image](https://github.com/user-attachments/assets/b8e2c302-82b4-4966-9369-ad76cefc4c57)
-
   - Hit Counter - a Python Flask application.
- 
 
-- Runtime protection
-  - Runtime Application Self-Protection **(RASP)**
 
-- SCA
-  ![image](https://github.com/user-attachments/assets/9657b70d-d926-4df4-ae31-d820def1df3e)
+ -  OWASP SCA **Dependency-checker** tool
 
 
 
