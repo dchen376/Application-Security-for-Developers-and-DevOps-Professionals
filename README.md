@@ -72,7 +72,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - tools: SaaS platforms like **Snyk**
     ![image](https://github.com/user-attachments/assets/89fafb5f-e6dd-4acc-a1be-b1929b9adbb8)
 
-  - SCA tools (Software Composition Analysis tools)
+  - **SCA** tools (Software Composition Analysis tools)
   ![image](https://github.com/user-attachments/assets/ca1fdaae-17a6-45cb-a739-82714be25ea7)
 
   - penetration tools
@@ -102,6 +102,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - Hit Counter - a Python Flask application.
  
 
+- Runtime protection
+  - Runtime Application Self-Protection **(RASP)**
 
 
 
