@@ -64,17 +64,17 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - OWASP's ZAP (Zed Attack Proxy): a tool wielded to uncover and guard against vulnerabilities in web applications. 
 ![image](https://github.com/user-attachments/assets/4f03b3b3-801f-4372-aba6-1c86f1b4ad1a)
 
-- **code review**
+- **code review**: Focuses on manually or automatically inspecting code for bugs or inefficiencies.
   ![image](https://github.com/user-attachments/assets/1ea65051-cd0a-46a6-8d20-b79a2e97b3db)
   *review codes at **Every Pull Request!**
 
-- **vulnerability analysis**
+- **vulnerability analysis**: focuses on identifying weaknesses or flaws in an application that could be exploited by attackers.
   - tools: SaaS platforms like **Snyk**
     ![image](https://github.com/user-attachments/assets/89fafb5f-e6dd-4acc-a1be-b1929b9adbb8)
     ![image](https://github.com/user-attachments/assets/da493775-a678-450f-aea2-005f70c9c836)
 
 
-  - **SCA** tools (Software Composition Analysis tools)
+  - **SCA** tools (Software Composition Analysis tools): Primarily examines open-source and third-party components for license or security issues.
   ![image](https://github.com/user-attachments/assets/ca1fdaae-17a6-45cb-a739-82714be25ea7)
 
   - penetration tools
@@ -101,7 +101,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
  -  OWASP SCA **Dependency-checker** tool
 ![image](https://github.com/user-attachments/assets/c6eb861e-c90b-4895-bec4-683bec409959)
 
-- continuous security analysis: the ongoing integration and testing of security in the SDLC.
+- **continuous security analysis**: the ongoing integration and testing of security in the SDLC.
 
 
 
