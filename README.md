@@ -43,7 +43,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/3cc2315e-7209-4ad4-9c85-0419be800373)
 ![image](https://github.com/user-attachments/assets/1839c18f-021a-419d-93fc-d603ccad8394)
 
-## 2. Security Testing and Mitigation Strategies
+## II. Security Testing and Mitigation Strategies
 
 - functional **security testing**
   - Ad hoc testing: completely unstructured; involves improvised, unplanned testing without any formal test cases or documentation
@@ -102,6 +102,10 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/c6eb861e-c90b-4895-bec4-683bec409959)
 
 - **continuous security analysis**: the ongoing integration and testing of security in the SDLC.
+
+
+
+## III. OWASP (Open Web Application Security Project) Application Security Risks
 
 
 
