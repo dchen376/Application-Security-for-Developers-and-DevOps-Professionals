@@ -53,7 +53,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - integration testing
   
 - **static analysis**: examing all code or runtime binaries to help detect common vulnerabilities.
-  - SAST (static application security testing)
+  - SAST (**static application security testing**)
   - **SonarQube**: for continuous code quality inspection
     ![image](https://github.com/user-attachments/assets/99b560fc-2234-4dfd-8866-17fb73af5333)
     ![image](https://github.com/user-attachments/assets/8548a5d6-c475-4f97-be1b-d32c343fb309)
