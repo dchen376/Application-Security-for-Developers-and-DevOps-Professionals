@@ -71,6 +71,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 - **vulnerability analysis**
   - tools: SaaS platforms like **Snyk**
     ![image](https://github.com/user-attachments/assets/89fafb5f-e6dd-4acc-a1be-b1929b9adbb8)
+    ![image](https://github.com/user-attachments/assets/da493775-a678-450f-aea2-005f70c9c836)
+
 
   - **SCA** tools (Software Composition Analysis tools)
   ![image](https://github.com/user-attachments/assets/ca1fdaae-17a6-45cb-a739-82714be25ea7)
@@ -86,7 +88,6 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/eb2044d2-4999-4945-a098-1192c7b4678b)
 
 - runtime protection: a security mechanism that shields running applications against threats
-  - Runtime Application Self-Protection **(RASP)**
   - **IAST**
   - **RASP**
   ![image](https://github.com/user-attachments/assets/f33d2ee7-d875-487b-b457-351ff61f2298)
