@@ -105,6 +105,8 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 - Runtime protection
   - Runtime Application Self-Protection **(RASP)**
 
+- SCA
+  ![image](https://github.com/user-attachments/assets/9657b70d-d926-4df4-ae31-d820def1df3e)
 
 
 
