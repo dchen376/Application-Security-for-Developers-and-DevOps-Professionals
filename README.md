@@ -69,7 +69,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   *review codes at **Every Pull Request!**
 
 - **vulnerability analysis**: focuses on identifying weaknesses or flaws in an application that could be exploited by attackers.
-  - tools: SaaS platforms like **Snyk**
+  - tools: SaaS platforms like **Snyk** (for securing code and dependencies)
     ![image](https://github.com/user-attachments/assets/89fafb5f-e6dd-4acc-a1be-b1929b9adbb8)
     ![image](https://github.com/user-attachments/assets/da493775-a678-450f-aea2-005f70c9c836)
 
