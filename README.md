@@ -81,7 +81,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   - defect tracking tool
   ![image](https://github.com/user-attachments/assets/94f60c34-e3cc-444e-8782-548b0aa1285b)
 
-- vulnerability scanner -> Jake (by SonaType Nexus Community):  to check Python environments for vulnerabilities. While Jake is not created by or supported by Sonatype, it uses the Sonatype OSS Index.
+- vulnerability scanner -> **Jake** (by SonaType Nexus Community):  to check Python environments for vulnerabilities. While Jake is not created by or supported by Sonatype, it uses the Sonatype OSS Index.
 ![image](https://github.com/user-attachments/assets/4487ead0-a4ec-4048-9490-a1038afbfb20)
 ![image](https://github.com/user-attachments/assets/eb2044d2-4999-4945-a098-1192c7b4678b)
 
@@ -95,11 +95,6 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   ![image](https://github.com/user-attachments/assets/7586e3b5-ae43-489d-b37c-98dc6b5c41e3)
   ![image](https://github.com/user-attachments/assets/200ff7c9-8d75-4a17-a8fe-1862dafc050d)
 
-
-- Lab: Evaluating vulnerability analysis
-  - **Jake** - to check Python environments for vulnerabilities
-    ![image](https://github.com/user-attachments/assets/b8e2c302-82b4-4966-9369-ad76cefc4c57)
-  - Hit Counter - a Python Flask application.
 
 
  -  OWASP SCA **Dependency-checker** tool
