@@ -103,6 +103,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 
 
  -  OWASP SCA **Dependency-checker** tool
+![image](https://github.com/user-attachments/assets/c6eb861e-c90b-4895-bec4-683bec409959)
 
 
 
