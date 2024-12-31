@@ -109,5 +109,10 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 
 ![image](https://github.com/user-attachments/assets/f844b9a3-934b-43dc-898c-aa6eb13011c6)
 
+- sql injections
+- cross site scripting
+  ![image](https://github.com/user-attachments/assets/2cfbded1-7e51-455b-baf6-10408fc287a8)
+
+
 
 
