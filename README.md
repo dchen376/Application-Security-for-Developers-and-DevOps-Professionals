@@ -118,6 +118,14 @@ https://www.coursera.org/learn/application-security-for-developers-devops
     - Hashicorp Vault
 
 
+## IV. Security Best Practicies
+- Code practices
+-  HTTP security headers with **flask-talisman**
+-  cross-origin resource sharing (CORS) policies using **flask-Cors**
+-  software dependencies
+-  vulnerability scan 
+
+
 
 
 
