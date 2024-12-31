@@ -115,6 +115,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 - secrets management
   ![image](https://github.com/user-attachments/assets/a8e49d1d-034b-4a52-a5bb-d7361d99d34d)
     - vault (token-based secret management solution)
+    - Hashicorp Vault
 
 
 
