@@ -112,6 +112,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 - sql injections
 - cross site scripting
   ![image](https://github.com/user-attachments/assets/2cfbded1-7e51-455b-baf6-10408fc287a8)
+- secrets management
 
 
 
