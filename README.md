@@ -127,6 +127,7 @@ https://www.coursera.org/learn/application-security-for-developers-devops
   -  vulnerability scan 
 - Dependencies
 ![image](https://github.com/user-attachments/assets/09cc7467-e942-47fd-82b2-c8ef63ff3b6b)
+  - **CodeQL**
 
 
 
