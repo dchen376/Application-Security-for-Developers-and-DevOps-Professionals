@@ -121,12 +121,12 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ## IV. Security Best Practicies
 - Code practices
   ![image](https://github.com/user-attachments/assets/5733fa90-6454-4701-9b6e-5c802c1be017)
-
--  HTTP security headers with **flask-talisman**
--  cross-origin resource sharing (CORS) policies using **flask-Cors**
--  software dependencies
--  vulnerability scan 
-
+  -  HTTP security headers with **flask-talisman**
+  -  cross-origin resource sharing (CORS) policies using **flask-Cors**
+  -  software dependencies
+  -  vulnerability scan 
+- Dependencies
+![image](https://github.com/user-attachments/assets/09cc7467-e942-47fd-82b2-c8ef63ff3b6b)
 
 
 
