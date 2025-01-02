@@ -129,6 +129,10 @@ https://www.coursera.org/learn/application-security-for-developers-devops
 ![image](https://github.com/user-attachments/assets/09cc7467-e942-47fd-82b2-c8ef63ff3b6b)
   - **CodeQL**
 - Secure Development Environment
+  ![image](https://github.com/user-attachments/assets/4a6fdd60-5573-4bc8-8e8b-e6a118ece6fc)
+  ![image](https://github.com/user-attachments/assets/2e67a386-ccbb-45d3-9ede-07bc58530f31)
+
+
 
 
 
